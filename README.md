@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Doriane Koudjou</h1>
+<h1 align="center"> Hi, I'm Doriane Koudjou</h1>
 <h3 align="center">Data Analytics & AI Enthusiast | BI Developer | ML Learner</h3>
 
 <p align="center">
@@ -13,10 +13,10 @@ I am passionate about **Data Analytics, Machine Learning, and Modern Web Develop
 I enjoy turning data into insights, building dashboards, and developing interactive applications.
 
 Currently:
-- 📊 Expanding my experience in **Data Analytics & BI**
-- 🤖 Growing my skills in **Machine Learning & Predictive Modeling**
-- 💻 Developing full-stack applications using **React + Node.js**
-- 🎯 Actively looking for **Working Student or Internship roles** in:
+- Expanding my experience in **Data Analytics & BI**
+- Growing my skills in **Machine Learning & Predictive Modeling**
+- Developing full-stack applications using **React + Node.js**
+- Actively looking for **Working Student or Internship roles** in:
   - Data Analytics  
   - Business Intelligence  
   - AI / ML  
@@ -73,15 +73,15 @@ Currently:
 ## 🎓 Certifications
 
 ### 📊 Data Analytics & BI
-- 🧩 **Business Analysis Fundamentals** — Microsoft  
-- 📈 **Data Analysis & Visualization with Power BI** — Microsoft  
-- 📊 **Data for Analysis with Microsoft Excel** — Microsoft  
-- 📉 **Fundamentals of Visualization with Tableau** — University of California, Davis  
+- **Business Analysis Fundamentals** — Microsoft  
+- **Data Analysis & Visualization with Power BI** — Microsoft  
+- **Data for Analysis with Microsoft Excel** — Microsoft  
+- **Fundamentals of Visualization with Tableau** — University of California, Davis  
 
 ### 🛢️ Databases
-- 🛢️ **SQL for Data Science** — University of California, Davis  
+-  **SQL for Data Science** — University of California, Davis  
 
 ### 💻 Web & App Development
-- 🌐 **JavaScript, HTML & CSS3** — OpenClassrooms  
-- 📱 **React Native** — OpenClassrooms  
+-  **JavaScript, HTML & CSS3** — OpenClassrooms  
+- **React Native** — OpenClassrooms  
 
