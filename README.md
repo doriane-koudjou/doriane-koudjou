@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dorianemefeuya@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="mailto:dorianemefeuya@gmail.com">📧dorianemefeuya@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/doriane-koudjou-17831023a">💼 LinkedIn</a>
 </p>
 
@@ -50,7 +50,7 @@ Currently:
 
 ---
 
-### 🔹 [Student Habits vs Academic Performance – Analytics Dashboard](https://github.com/doriane-koudjou/student-habits-analytics)
+### 🔹 [Student Habits vs Academic Performance – Analytics Dashboard](https://github.com/doriane-koudjou/student-habits-performance)
 **Python • Pandas • Streamlit • Machine Learning**
 - Exploratory Data Analysis (EDA)
 - Correlation Heatmaps
